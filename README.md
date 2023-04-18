@@ -1,4 +1,4 @@
-#Flutter Camera Overlay
+# Flutter Camera Overlay
 This project adds an overlay over the camera widget, allowing you to add custom graphics or text to your camera feed in a Flutter application.
 
 ## Getting Started
